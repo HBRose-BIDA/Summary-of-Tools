@@ -46,7 +46,6 @@
 - **Matplotlib & Seaborn** (For creating statistical plots in Python)
 - **Excel (Advanced)** (For trend analysis, dashboards, and automation)
 - **PowerPoint** (For presenting data insights)
-- **D3.js** (For interactive web-based visualizations)
 
 ## GIS and Spatial Analysis Tools
 
